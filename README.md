@@ -1,2 +1,1 @@
-1st test
-only html, css, js.
+Our site is published at https://deciphercrypto.github.io/DecipherCrypto/
